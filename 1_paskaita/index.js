@@ -1,1 +1,1 @@
-console.log("Mano vardas Kaidre");
+console.log("Mano vardas Skaidre");
